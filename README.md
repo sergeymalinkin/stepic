@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/sergeymalinkin/stepic.svg?branch=master)](https://travis-ci.org/sergeymalinkin/stepic)
 # stepic "Программирование на Python"
 Решение практических задач курса.
 
